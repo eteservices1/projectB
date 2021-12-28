@@ -1,0 +1,22 @@
+{
+  "name": "projectb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eteservices1/projectB.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eteservices1/projectB/issues"
+  },
+  "homepage": "https://github.com/eteservices1/projectB#readme",
+  "devDependencies": {
+    "typescript": "^4.5.4"
+  }
+}
